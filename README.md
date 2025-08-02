@@ -1,5 +1,3 @@
-Certainly! Here is a README file for your Jupyter notebook titled "Customer Churn Prediction". This file follows best practices for README documentation on data science and ML projects, and is tailored to the context and content shown in your attached notebook.
-
 # Customer Churn Prediction
 
 ## Author
@@ -101,9 +99,3 @@ The dataset contains the following columns:
 
 - Dataset provided by [fridrichmrtn on Kaggle](https://www.kaggle.com/datasets/fridrichmrtn/user-churn-dataset)
 - Notebook authored by Anveetha Suresh
-
-For improvements, suggestions, or questions, please open an issue or reach out to the project author.
-
-Let me know if you'd like to adjust anything for your use-case, or add more technical/usage details!
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/87721248/de36d288-1696-4bf1-a4cd-a280dbde41c4/churnRisk.ipynb
